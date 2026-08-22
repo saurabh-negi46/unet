@@ -1,4 +1,5 @@
-this github repo is just a reproduction of the research paper.
+this github repo is just a reproduction of "U-Net: Convolutional Networks for Biomedical
+Image Segmentation" research paper : https://arxiv.org/pdf/1505.04597
 
 <br>
 
